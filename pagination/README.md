@@ -1,1 +1,1 @@
-Practicing Pagination
+ Pagination
